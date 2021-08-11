@@ -3,6 +3,9 @@
   "displayName": "Shibuya",
   "description": "A modern, vibrant color theme inspired by Tokyo Night.",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/jeroen-meijer/shibuya"
+  },
   "engines": {
     "vscode": "^1.59.0"
   },
