@@ -1,4 +1,4 @@
-# <img style="float: left; width: 35px; padding: 0 10px 0 5px" src="assets/icon.png"> ・ Shibuya
+# <img style="float: left; width: 40px; padding: 0 10px 0 5px" src="https://raw.githubusercontent.com/jeroen-meijer/shibuya/main/assets/icon.png"> ・ Shibuya
 
 ## A modern, vibrant color theme inspired by Tokyo Night.
 
