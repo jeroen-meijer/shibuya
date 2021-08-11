@@ -1,4 +1,4 @@
-# 渋谷 ・ Shibuya
+# <img style="float: left; width: 35px; padding: 0 10px 0 5px" src="assets/icon.png"> ・ Shibuya
 
 ## A modern, vibrant color theme inspired by Tokyo Night.
 
@@ -14,6 +14,7 @@ Shibuya is a dark Visual Studio Code color theme featuring bright, vibrant text 
 - ![#9ece6a](https://via.placeholder.com/15/9ece6a/000000?text=+) `#9ECE6A`
 - ![#c7ccd4](https://via.placeholder.com/15/c7ccd4/000000?text=+) `#C7CCD4`
 - ![#666b88](https://via.placeholder.com/15/666b88/000000?text=+) `#666B88`
+- ![#0c0d12](https://via.placeholder.com/15/0c0d12/000000?text=+) `#0C0D12`
 
 ### Notes
 

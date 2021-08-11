@@ -3,11 +3,34 @@
   "displayName": "Shibuya",
   "description": "A modern, vibrant color theme inspired by Tokyo Night.",
   "version": "1.0.0",
+  "publisher": "jeroen-meijer",
+  "author": {
+    "name": "Jeroen Meijer",
+    "url": "https://jfk.dev/",
+    "email": "jeroenfkmeijer@gmail.com"
+  },
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/jeroen-meijer/shibuya"
   },
+  "keywords": [
+    "shibuya",
+    "theme",
+    "dark",
+    "tokyo",
+    "cyber"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0c0d12",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.59.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jeroen-meijer/pubspec-assist/shibuya",
+    "email": "jeroenfkmeijer@gmail.com"
   },
   "categories": [
     "Themes"
